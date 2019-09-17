@@ -1,0 +1,15 @@
+{
+  "name": "gic",
+  "version": "0.0.1",
+  "description": "Git based chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ephi Gabay",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "shelljs": "^0.7.4"
+  }
+}
